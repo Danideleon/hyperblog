@@ -43,6 +43,12 @@ body
 }
 #post
 {
-    background: white;
-    padding: 1em;
+    padding: 0.5em;
+}
+#footer
+{
+    background: red;
+    color: white;
+    text-align: center;
+    padding: 0.5em;
 }
